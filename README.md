@@ -29,7 +29,7 @@ A starter repo for CodeIgniter web application development.
 ```
 $ git clone https://github.com/isaiahiroko/ci-starter [project-name]
 $ cd [project-name]
-$ composer install
+$ composer update
 ```
 
 ## [Usage Documentation at CodeIgniter](https://www.codeigniter.com/)
